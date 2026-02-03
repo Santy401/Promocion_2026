@@ -11,10 +11,14 @@
             "id": "be98136e9dc14931",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Promoción_2026_11_1/11_1/01_Materias/Física/Física.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Física"
             }
           }
         ]
@@ -168,6 +172,11 @@
   },
   "active": "be98136e9dc14931",
   "lastOpenFiles": [
+    "Promoción_2026_11_1/11_1/01_Materias/Física/Física.md",
+    "Promoción_2026_11_1/11_1/01_Materias/Física",
+    "Promoción_2026_11_1/11_1/01_Materias",
+    "Promoción_2026_11_1/11_1",
+    "Promoción_2026_11_1",
     "Horario_11_1.excalidraw",
     "ESTO FUNCIONA4.md",
     "/ESTO FUNCIONA3.md",
