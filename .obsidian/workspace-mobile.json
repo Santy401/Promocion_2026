@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11_2/01_Materias/Ciencias/Ciencias Naturales.md",
+                "file": "Ideas/Tareas Nico/Tareas Pendientes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ciencias Naturales"
-            }
-          },
-          {
-            "id": "d02f0d030cf29997",
-            "type": "leaf",
-            "state": {
-              "type": "infranodus-graph-view",
-              "state": {},
-              "icon": "infranodus-icon",
-              "title": "Ciencias Naturales.md"
+              "title": "Tareas Pendientes"
             }
           }
         ]
@@ -165,27 +155,27 @@
         }
       },
       {
-        "id": "cb2adda01734a6ac",
+        "id": "1f1eeaf8c429cb89",
         "type": "leaf",
         "state": {
-          "type": "infranodus-graph-view",
+          "type": "git-view",
           "state": {},
-          "icon": "infranodus-icon",
-          "title": "InfraNodus Graph"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       },
       {
-        "id": "76257344e341799e",
+        "id": "00f8eeca7f04463c",
         "type": "leaf",
         "state": {
-          "type": "smtcmp-chat-view",
+          "type": "reminder-list",
           "state": {},
-          "icon": "wand-sparkles",
-          "title": "Yolo chat"
+          "icon": "clock",
+          "title": "Reminders"
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,15 +186,20 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false,
-      "infranodus-graph-view:InfraNodus Graph View": false,
-      "yolo:Open chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76257344e341799e",
+  "active": "8b1414146f6e579c",
   "lastOpenFiles": [
+    "ESTO FUNCIONA8.md",
+    "Ideas/Tareas Santy/Tareas Pendientes.md",
+    "Ideas/Tareas Nico/Tareas Pendientes.md",
+    "Ideas/Tareas Nico",
+    "Ideas/Tareas Santy",
+    "Sin nombre",
+    "Ideas",
+    "11_2/01_Materias/Ciencias/Ciencias Naturales.md",
     "11_2/00_Dashboard/Dashboard 2026.md",
-    "ESTO FUNCIONA7.md",
     "2026-02-03.md",
     "Promoción_2026_11_1/11_1/01_Materias/Física/Física.md",
     "Promoción_2026_11_1/11_1/01_Materias/Física",
