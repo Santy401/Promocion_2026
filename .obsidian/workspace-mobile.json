@@ -186,14 +186,20 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
   "active": "8b1414146f6e579c",
   "lastOpenFiles": [
+    "Horario_11_1.excalidraw",
+    "11_1/01_Materias/Física/01_Periodo_1/Tareas",
+    "11_1/01_Materias/Ciencias/Tareas",
+    "11_1/00_Dashboard/Dashboard 2026.md",
+    "11_2/11_2.md",
     "ESTO FUNCIONA8.md",
-    "Ideas/Tareas Santy/Tareas Pendientes.md",
     "Ideas/Tareas Nico/Tareas Pendientes.md",
+    "Ideas/Tareas Santy/Tareas Pendientes.md",
     "Ideas/Tareas Nico",
     "Ideas/Tareas Santy",
     "Sin nombre",
@@ -206,12 +212,9 @@
     "Promoción_2026_11_1/11_1/01_Materias",
     "Promoción_2026_11_1/11_1",
     "Promoción_2026_11_1",
-    "Horario_11_1.excalidraw",
     "/ESTO FUNCIONA3.md",
     "ESTO FUNCIONA2.md",
-    "git",
     "ESTO FUNCIONA.md",
-    "11_2/11_2.md",
     "11_1/11_1.md"
   ]
 }
