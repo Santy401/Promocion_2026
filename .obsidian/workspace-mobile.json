@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESTO FUNCIONA4.md",
+                "file": "ESTO FUNCIONA6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESTO FUNCIONA4"
+              "title": "ESTO FUNCIONA6"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Horario_11_1.excalidraw",
+            "file": "ESTO FUNCIONA6.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,13 +165,14 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "be98136e9dc14931",
   "lastOpenFiles": [
+    "ESTO FUNCIONA6.md",
     "2026-02-03.md",
-    "ESTO FUNCIONA4.md",
     "Promoción_2026_11_1/11_1/01_Materias/Física/Física.md",
     "Promoción_2026_11_1/11_1/01_Materias/Física",
     "Promoción_2026_11_1/11_1/01_Materias",
