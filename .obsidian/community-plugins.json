@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-reminder-plugin",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "emoji-shortcodes",
+  "obsidian-icon-folder"
 ]
