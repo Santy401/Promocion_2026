@@ -11,10 +11,14 @@
             "id": "8b1414146f6e579c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Tareas De Progresión.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tareas De Progresión"
             }
           }
         ]
@@ -188,6 +192,8 @@
   },
   "active": "8b1414146f6e579c",
   "lastOpenFiles": [
+    "Ideas/Tareas Santy/Tareas Pendientes.md",
+    "Ideas/Tareas De Progresión.md",
     "11_1/01_Materias/Ciencias/Físico/Temas/Dinámica.md",
     "11_1/00_Dashboard/Dashboard 2026.md",
     "ESTO FUNCIONA 9.md",
@@ -202,7 +208,6 @@
     "11_1/01_Materias/Física/01_Periodo_1/Tareas",
     "11_1/01_Materias/Ciencias/Tareas",
     "11_2/11_2.md",
-    "Ideas/Tareas Santy/Tareas Pendientes.md",
     "Ideas/Tareas Nico",
     "Ideas/Tareas Santy",
     "Sin nombre",
