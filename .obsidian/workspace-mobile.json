@@ -173,9 +173,19 @@
           "icon": "infranodus-icon",
           "title": "InfraNodus Graph"
         }
+      },
+      {
+        "id": "76257344e341799e",
+        "type": "leaf",
+        "state": {
+          "type": "smtcmp-chat-view",
+          "state": {},
+          "icon": "wand-sparkles",
+          "title": "Yolo chat"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +197,11 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
-      "infranodus-graph-view:InfraNodus Graph View": false
+      "infranodus-graph-view:InfraNodus Graph View": false,
+      "yolo:Open chat": false
     }
   },
-  "active": "8b1414146f6e579c",
+  "active": "76257344e341799e",
   "lastOpenFiles": [
     "11_2/00_Dashboard/Dashboard 2026.md",
     "ESTO FUNCIONA7.md",

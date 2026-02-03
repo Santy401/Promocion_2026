@@ -11,5 +11,10 @@ Evalúa la capacidad para comprender y usar conceptos teóricos y modelos para s
 
 [[Promoción_2026/11_2/01_Materias/Ciencias/Componentes]]
 
+#tarea 
+cueepo
+tarea #1 
 
-*/
+consultar sobre el  humano
+
+l

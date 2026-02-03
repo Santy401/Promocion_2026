@@ -1,0 +1,73 @@
+{
+  "id": "77a550f2-8464-4767-aff9-0d359f8d721c",
+  "title": "新消息",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@Ciencias Naturales.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Ciencias Naturales.md",
+                  "mentionable": {
+                    "type": "current-file",
+                    "file": "11_2/01_Materias/Ciencias/Ciencias Naturales.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "hola",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n@Ciencias Naturales.mdhola\n\n"
+        }
+      ],
+      "id": "f2ff3114-3884-4d27-9452-a9f68b85c961",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "11_2/01_Materias/Ciencias/Ciencias Naturales.md"
+        }
+      ],
+      "reasoningLevel": "on"
+    }
+  ],
+  "createdAt": 1770155258783,
+  "updatedAt": 1770155258783,
+  "schemaVersion": 1,
+  "overrides": null,
+  "reasoningLevel": "on"
+}

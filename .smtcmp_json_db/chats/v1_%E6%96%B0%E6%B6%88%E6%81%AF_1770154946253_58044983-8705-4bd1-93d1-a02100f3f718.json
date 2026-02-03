@@ -1,0 +1,116 @@
+{
+  "id": "58044983-8705-4bd1-93d1-a02100f3f718",
+  "title": "新消息",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@Ciencias Naturales.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Ciencias Naturales.md",
+                  "mentionable": {
+                    "type": "current-file",
+                    "file": "11_2/01_Materias/Ciencias/Ciencias Naturales.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " hola ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n@Ciencias Naturales.md hola \n\n"
+        }
+      ],
+      "id": "ce3500b1-fdef-42c0-8470-b7167ec333d7",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "11_2/01_Materias/Ciencias/Ciencias Naturales.md"
+        }
+      ],
+      "reasoningLevel": "on"
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "hola",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nhola\n\n"
+        }
+      ],
+      "id": "fa083b7c-d33b-422f-91a9-3e76bd336002",
+      "mentionables": [],
+      "reasoningLevel": "on"
+    }
+  ],
+  "createdAt": 1770154782916,
+  "updatedAt": 1770154946253,
+  "schemaVersion": 1,
+  "overrides": null,
+  "reasoningLevel": "on"
+}
