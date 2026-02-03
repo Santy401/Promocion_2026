@@ -10,3 +10,6 @@ Evalúa la capacidad de analizar críticamente argumentos y modelos que explican
 Evalúa la capacidad para comprender y usar conceptos teóricos y modelos para solucionar problemas.
 
 [[Promoción_2026/11_2/01_Materias/Ciencias/Componentes]]
+
+
+*/
