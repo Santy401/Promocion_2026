@@ -1,10 +1,10 @@
 ## Materias
 
-- [[Promoción_2026_11_1/11_1/01_Materias/Física/Física]]
+- [[Promoción_2026/11_1/01_Materias/Física/Física]]
 - [[ Calculo ]]
 - [[ Ingles ]]
 - [[ Castellano ]]
-- [[Promoción_2026_11_1/11_1/01_Materias/Ciencias/Ciencias Naturales]]
+- [[Promoción_2026/11_1/01_Materias/Ciencias/Ciencias Naturales]]
 - [[ Estadística ]]
 - [[ Filosofía ]]
 - [[ Ética y Valores ]]
