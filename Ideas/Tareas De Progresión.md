@@ -2,7 +2,7 @@ Esta son las faces que tendremos para completar nuestra idea poco a poco :
 
 ## Fase 1: Sincronización básica del Vault
 
-**Tarea 1**: Configurar pull automático desde GitHub ✔- Santiago
+**Tarea 1**: Configurar pull automático desde GitHub✔- Santiago
 
 - Crear script o workflow que ejecute `git pull` periódicamente en tu NAS 
     
