@@ -10,7 +10,7 @@ Cada grado actúa como un universo independiente.
 ## 2. Gestión de Nombres Únicos (Sufijos)
 Para garantizar la separación total en la gráfica y evitar nodos fusionados, es **OBLIGATORIO** usar sufijos en los nombres de archivos principales de materias.
 
-### Regla de Nombres:
+### Regla de Nombres: 
 - **11-1**: `[NombreMateria]_11_1.md` (Ej: `Matemáticas_11_1.md`)
 - **11-2**: `[NombreMateria]_11_2.md` (Ej: `Matemáticas_11_2.md`)
 
