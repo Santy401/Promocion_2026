@@ -11,10 +11,12 @@
             "id": "36b34347c6a0f6ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "excalidraw",
+              "state": {
+                "file": "Horario_11_2.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Horario_11_2"
             }
           }
         ]
@@ -188,6 +190,7 @@
   },
   "active": "36b34347c6a0f6ea",
   "lastOpenFiles": [
+    "11_1/01_Materias/Castellano/Castellano_11_1.md",
     "Guía En Movil/Primeros Pasos.md",
     "ORGANIZACION_GRAFICA.md",
     "Ideas/Tareas Nico/Tareas Pendientes.md",
