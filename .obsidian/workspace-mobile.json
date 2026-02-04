@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fcc2edd9d0118fff",
+        "id": "a25658ff6aa20722",
         "type": "tabs",
         "children": [
           {
-            "id": "8b1414146f6e579c",
+            "id": "36b34347c6a0f6ea",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -186,7 +186,7 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "8b1414146f6e579c",
+  "active": "36b34347c6a0f6ea",
   "lastOpenFiles": [
     "Guía En Movil/Primeros Pasos.md",
     "ORGANIZACION_GRAFICA.md",
