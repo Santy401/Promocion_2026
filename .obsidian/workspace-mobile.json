@@ -11,14 +11,12 @@
             "id": "36b34347c6a0f6ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "11_1/01_Materias/Ciencias/Ciencias Naturales_11_1.md",
-                "mode": "source",
-                "source": false
+                "file": "Horario_11_2.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "Ciencias Naturales_11_1"
+              "icon": "excalidraw-icon",
+              "title": "Horario_11_2"
             }
           }
         ]
@@ -192,15 +190,15 @@
   },
   "active": "36b34347c6a0f6ea",
   "lastOpenFiles": [
-    "Promoción_2026/11_1/01_Materias/Ciencias/Indagación.md",
+    "Horario_11_2.excalidraw",
+    "Horario_11_1.excalidraw",
     "11_1/01_Materias/Ciencias/Ciencias Naturales_11_1.md",
+    "Promoción_2026/11_1/01_Materias/Ciencias/Indagación.md",
     "Promoción_2026/11_1/01_Materias/Ciencias",
     "Promoción_2026/11_1/01_Materias",
     "Promoción_2026/11_1",
     "Promoción_2026",
     "11_1/01_Materias/Ciencias/Biológico/Biológico.md",
-    "Horario_11_1.excalidraw",
-    "Horario_11_2.excalidraw",
     "11_1/01_Materias/Castellano/Castellano_11_1.md",
     "Guía En Movil/Primeros Pasos.md",
     "ORGANIZACION_GRAFICA.md",
@@ -226,7 +224,6 @@
     "Promoción_2026_11_1/11_1/01_Materias/Física/Física.md",
     "/ESTO FUNCIONA3.md",
     "ESTO FUNCIONA2.md",
-    "ESTO FUNCIONA.md",
-    "11_1/11_1.md"
+    "ESTO FUNCIONA.md"
   ]
 }
